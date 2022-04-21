@@ -1,0 +1,6 @@
+
+Crescimento Populacional
+
+Para entender o comportamento das populações de um ecossistema, é necessário fazer o estudo do crescimento populacional. Quando se faz a medição do tamanho da população de tempos em tempos, pode-se ter uma idéia se ela está aumentando ou diminuindo, podendo correlacionar com outros fatores como clima, alimento, etc.
+
+A taxa de crescimento de uma população é a variação do número de indivíduos num determinado espaço de tempo.
